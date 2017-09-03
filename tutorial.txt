@@ -1,0 +1,8 @@
+0. Workspaces - IDE Basics
+1. My First Game - D&D 
+2. The Object Editor - IDE Basics
+3. The Sprite Editor - IDE Basics
+4. The Image Editor - IDE Basics
+5. The Room Editor - IDE Basics
+6. Tileset Editor - IDE Basics
+7. My First Game - Code
